@@ -1,0 +1,7 @@
+{
+    "name": "Mint",
+    "address": {
+        "street" : "123 Main Street",
+        "city" : "Anytown"
+    }
+}
